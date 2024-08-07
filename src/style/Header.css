@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+html {
+    background-color: black;
+    color: white;
+}
+
+body {
+    
+}
+
+nav {
+    background-color: green;
+    padding: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: baseline;
+}
+
+nav > a {
+    margin: 0 10px;
+    color: white;
+    font-family: cursive;
+    font-weight: bold;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 30px;
+}
